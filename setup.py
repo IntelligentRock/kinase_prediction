@@ -17,5 +17,6 @@ setup(
         'anndata',
         'matplotlib',
         'xgboost',
-        'scikit-learn',    ]
+        'scikit-learn'
+    ]
 )
